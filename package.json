@@ -1,0 +1,14 @@
+{
+  "name": "mope",
+  "version": "1.0.0",
+  "description": "Music Organizer Player Etc.",
+  "main": "main.js",
+  "scripts": {
+      "start": "electron ."
+  },
+  "author": "scdodd",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^30.0.1"
+  }
+}

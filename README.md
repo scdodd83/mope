@@ -1,3 +1,13 @@
 # MOPE
 
-Mope is a linux music player. It ticks my peronsal boxes of what a music player should do, and nothing more.
+Music Organizer Player Etc. (MOPE)
+
+## Getting Started:
+
+Install Electron:
+
+`npm install --save-dev electron`
+
+Electron: https://www.electronjs.org/docs/latest/tutorial/quick-start
+Electron Forge: https://www.electronforge.io/
+React: https://react.dev/learn
