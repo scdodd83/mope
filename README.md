@@ -8,6 +8,7 @@ Install Electron:
 
 `npm install --save-dev electron`
 
-Electron: https://www.electronjs.org/docs/latest/tutorial/quick-start
-Electron Forge: https://www.electronforge.io/
-React: https://react.dev/learn
+## Links:
+* Electron: https://www.electronjs.org/docs/latest/tutorial/quick-start
+* Electron Forge: https://www.electronforge.io/
+* React: https://react.dev/learn
